@@ -10,7 +10,7 @@
 - Create Python environment\
 `pip install -r .\path_to_requirements\requirements.txt`
 
-## ✅ Example of different algorithm performances regarding different time complexity and Big O criteria
+## ✅ Example of different performances of algorithms regarding time complexity and Big O criteria
 - O(1)
 - O(n)
 - O(n^2)
